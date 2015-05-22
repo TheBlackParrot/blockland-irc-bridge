@@ -1,0 +1,3 @@
+version	0.0.7-1
+channel	testing
+repository	theblackparrot.github.io/blockland-repo/repository.txt
